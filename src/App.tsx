@@ -81,6 +81,7 @@ function App() {
         </button>
       ))}
 
+    {/* Reiniciar mi juego */}
       <br />
       <br />
       <button onClick={newGame}>Nuevo juego</button>
